@@ -1,0 +1,10 @@
+.git
+.github
+.gitignore
+README.md
+ci_cd_guide_for_go_sudoku_application.md
+sudoku-app
+coverage.out
+*.test
+.env
+.env.*
